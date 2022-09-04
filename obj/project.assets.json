@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\CURSOS\\PROGRAMADOR FULL STACK SENAI\\UC12 - BACK END CODIFICAÇÃO\\SA2\\Exercicios\\UC12-Projeto_principal\\UC12-ER2.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\CURSOS\\PROGRAMADOR FULL STACK SENAI\\UC12 - BACK END CODIFICAÇÃO\\SA2\\Exercicios\\UC12-Projeto_principal_completo\\UC12-ER2.csproj",
       "projectName": "UC12-ER2",
-      "projectPath": "C:\\Users\\User\\Documents\\CURSOS\\PROGRAMADOR FULL STACK SENAI\\UC12 - BACK END CODIFICAÇÃO\\SA2\\Exercicios\\UC12-Projeto_principal\\UC12-ER2.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\CURSOS\\PROGRAMADOR FULL STACK SENAI\\UC12 - BACK END CODIFICAÇÃO\\SA2\\Exercicios\\UC12-Projeto_principal_completo\\UC12-ER2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\CURSOS\\PROGRAMADOR FULL STACK SENAI\\UC12 - BACK END CODIFICAÇÃO\\SA2\\Exercicios\\UC12-Projeto_principal\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\CURSOS\\PROGRAMADOR FULL STACK SENAI\\UC12 - BACK END CODIFICAÇÃO\\SA2\\Exercicios\\UC12-Projeto_principal_completo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
